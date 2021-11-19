@@ -1,0 +1,54 @@
+{
+  "page": {
+    "cards": [
+      {
+        "id": 1,
+        "title": "IMP::URG",
+        "color": "#ffff00",
+        "titleColor": "#ffe955",
+        "tasks": [
+          {
+            "id": 142,
+            "taskName": "Чат-бот Джефф",
+            "completed": false,
+            "subTasks": [
+              {
+                "id": 1231,
+                "subTaskName": "Задача 1",
+                "completed": false,
+                "expectingOnEdge": "11.11.2021,22:10",
+                "subTaskTags": ["Важная и срочная"]
+              },
+              {
+                "id": 1232,
+                "subTaskName": "Задача 2",
+                "completed": false
+              }
+            ],
+            "notes": "Lorem ipsum...",
+            "taskTags": ["Проект", "Близок к завершению"],
+            "deadlines": {
+              "expectingOnEdge": "12.11.2021, 11:00",
+              "goodCompletionTime": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Фотоотчёты",
+        "color": "#00e700",
+        "titleColor": "#aaffaa",
+        "tasks": [
+          {
+            "id": 252,
+            "taskName": "Фотоотчёт СОГ",
+            "completed": false
+          }
+        ]
+      }
+    ],
+    "pageColor": "#99ff55",
+    "totalTasks": 14
+  }
+}
