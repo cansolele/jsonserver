@@ -22,7 +22,7 @@
               {
                 "id": 1232,
                 "subTaskName": "Задача 2",
-                "completed": false
+                "completed": true
               }
             ],
             "notes": "Lorem ipsum...",
