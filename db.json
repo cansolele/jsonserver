@@ -23,7 +23,13 @@
                 "id": 1232,
                 "subTaskName": "Задача 2",
                 "completed": true
+              },
+              {
+                "id": 1234,
+                "subTaskName": "Задача 2. Lorem lorem lorem lorem lorem",
+                "completed": false
               }
+              
             ],
             "notes": "Lorem ipsum...",
             "taskTags": ["Проект", "Близок к завершению"],
