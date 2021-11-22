@@ -10,7 +10,7 @@
           {
             "id": 142,
             "taskName": "Чат-бот Джефф",
-            "completed": false,
+            "completed": true,
             "subTasks": [
               {
                 "id": 1231,
