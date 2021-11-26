@@ -17,7 +17,16 @@
                 "subTaskName": "Задача 1",
                 "completed": false,
                 "expectingOnEdge": "11.11.2021,22:10",
-                "subTaskTags": ["Важная и срочная"]
+                "subTaskTags": [{
+                  "id": 51,
+                  "tagName":"22:10",
+                  "tagColor":"rgb(255, 0, 0);"
+                },
+                 {
+                  "id": 52,
+                  "tagName":"Важная и срочная",
+                  "tagColor":"rgb(0, 0, 255);"
+                }]
               },
               {
                 "id": 1232,
@@ -26,7 +35,7 @@
               },
               {
                 "id": 1234,
-                "subTaskName": "Задача 2. Lorem lorem lorem lorem lorem",
+                "subTaskName": "Задача Lorem lorem lorem lorem lorem",
                 "completed": false
               }
               
