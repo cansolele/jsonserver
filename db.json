@@ -20,12 +20,12 @@
                 "subTaskTags": [{
                   "id": 51,
                   "tagName":"22:10",
-                  "tagColor":"rgb(255, 0, 0);"
+                  "tagColor":"rgb(255, 0, 0)"
                 },
                  {
                   "id": 52,
                   "tagName":"Важная и срочная",
-                  "tagColor":"rgb(0, 0, 255);"
+                  "tagColor":"rgb(0, 0, 255)"
                 }]
               },
               {
