@@ -17,16 +17,18 @@
                 "subTaskName": "Задача 1",
                 "completed": false,
                 "expectingOnEdge": "11.11.2021,22:10",
-                "subTaskTags": [{
-                  "id": 51,
-                  "tagName":"22:10",
-                  "tagColor":"rgb(255, 85, 85)"
-                },
-                 {
-                  "id": 52,
-                  "tagName":"Важная и срочная",
-                  "tagColor":"rgb(85, 85, 255)"
-                }]
+                "subTaskTags": [
+                  {
+                    "id": 51,
+                    "tagName": "22:10",
+                    "tagColor": "rgb(255, 85, 85)"
+                  },
+                  {
+                    "id": 52,
+                    "tagName": "Важная и срочная",
+                    "tagColor": "rgb(85, 85, 255)"
+                  }
+                ]
               },
               {
                 "id": 1232,
@@ -38,25 +40,25 @@
                 "subTaskName": "Задача Lorem lorem lorem lorem lorem",
                 "completed": false
               }
-              
             ],
-            "notes": "Lorem ipsum...",
-            "taskTags": [{
-              "id": 32145,
-              "tagName":"Проект",
-              "tagColor": "rgb(55, 200, 55)"
-            },
-            {
-              "id": 32146,
-              "tagName":"Важный заказ",
-              "tagColor": "rgb(255, 85, 85)"
-            },
-            {
-              "id": 32147,
-              "tagName":"Приоритетный",
-              "tagColor": "rgb(85, 85, 255)"
-            }
-          ],
+            "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer facilisis rutrum urna sit amet vehicula. Suspendisse tempor euismod lacus at fringilla. Sed viverra condimentum odio quis euismod. In sit amet magna at enim bibendum venenatis ut vitae eros. Mauris nec urna malesuada, hendrerit eros sit amet, facilisis ipsum. Morbi tristique malesuada purus, ac ultricies mauris. Cras blandit diam elit, quis hendrerit nunc viverra non. Quisque consequat tempus vestibulum. Nullam a scelerisque sapien, ut maximus leo. Curabitur ornare magna et nisi condimentum lobortis. Donec ultricies fermentum accumsan. Vivamus ut arcu velit. Aenean lacinia eu justo rutrum condimentum. Cras ac turpis viverra, accumsan lacus quis, pulvinar nibh. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus nibh ipsum, fringilla nec nulla sit amet, dictum imperdiet leo.",
+            "taskTags": [
+              {
+                "id": 32145,
+                "tagName": "Проект",
+                "tagColor": "rgb(55, 200, 55)"
+              },
+              {
+                "id": 32146,
+                "tagName": "Важный заказ",
+                "tagColor": "rgb(255, 85, 85)"
+              },
+              {
+                "id": 32147,
+                "tagName": "Приоритетный",
+                "tagColor": "rgb(85, 85, 255)"
+              }
+            ],
             "deadlines": {
               "expectingOnEdge": "12.11.2021, 11:00",
               "goodCompletionTime": ""
