@@ -74,11 +74,6 @@
     },
     {
       "mark": "Ford",
-      "model": "C-MAX",
-      "tariffs": { "Комфорт": { "year": 2015 }, "Стандарт": { "year": 2014 } }
-    },
-    {
-      "mark": "Ford",
       "model": "ECOSPORT",
       "tariffs": { "Комфорт": { "year": 2014 }, "Стандарт": { "year": 2011 } }
     },
